@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4581b8ff-552f-4863-969d-8f5b9bbbaf17" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -7,18 +10,139 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2HJXHXr2heP6q12iGs9Ahrlh0V1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.bitwise.ExceptionHandling" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserRegistrationTest.validateFirstNameTestReturnTrue">
+    <configuration name="UserRegistrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day21_UserRegistration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bitwise.ExceptionHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bitwise.ExceptionHandling" />
+      <option name="MAIN_CLASS_NAME" value="com.bitwise.ExceptionHandling.UserRegistrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRegistrationTest.validateFirstNameTestReturnFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day21_UserRegistration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bitwise.ExceptionHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bitwise.ExceptionHandling" />
+      <option name="MAIN_CLASS_NAME" value="com.bitwise.ExceptionHandling.UserRegistrationTest" />
+      <option name="METHOD_NAME" value="validateFirstNameTestReturnFalse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRegistrationTest.validateFirstNameTestReturnTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day21_UserRegistration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bitwise.ExceptionHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bitwise.ExceptionHandling" />
+      <option name="MAIN_CLASS_NAME" value="com.bitwise.ExceptionHandling.UserRegistrationTest" />
+      <option name="METHOD_NAME" value="validateFirstNameTestReturnTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRegistrationTest.validateMobileNumberReturnFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day21_UserRegistration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bitwise.ExceptionHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bitwise.ExceptionHandling" />
+      <option name="MAIN_CLASS_NAME" value="com.bitwise.ExceptionHandling.UserRegistrationTest" />
+      <option name="METHOD_NAME" value="validateMobileNumberReturnFalse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRegistrationTest.validateMobileNumberReturnTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day21_UserRegistration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bitwise.ExceptionHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bitwise.ExceptionHandling" />
+      <option name="MAIN_CLASS_NAME" value="com.bitwise.ExceptionHandling.UserRegistrationTest" />
+      <option name="METHOD_NAME" value="validateMobileNumberReturnTrue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserRegistrationTest.validateFirstNameTestReturnTrue" />
+        <item itemvalue="JUnit.UserRegistrationTest" />
+        <item itemvalue="JUnit.UserRegistrationTest.validateFirstNameTestReturnFalse" />
+        <item itemvalue="JUnit.UserRegistrationTest.validateMobileNumberReturnTrue" />
+        <item itemvalue="JUnit.UserRegistrationTest.validateMobileNumberReturnFalse" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,5 +153,37 @@
       <updated>1668004088248</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" log-message="true" type="java-exception">
+          <dependency master-id="0" />
+          <properties class="com.bitwise.ExceptionHandling.InvalidUserInputException" package="com.bitwise.ExceptionHandling" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="java-exception">
+          <dependency id="0" />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Day21_UserRegistration$UserRegistrationTest.ic" NAME="UserRegistrationTest Coverage Results" MODIFIED="1668014869604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.bitwise.ExceptionHandling.*</FILTER>
+    </SUITE>
   </component>
 </project>
